@@ -1,0 +1,30 @@
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\bin\Debug\Database1.sdf
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\bin\Debug\EntityExample.exe.config
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\bin\Debug\EntityExample.exe
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\bin\Debug\EntityExample.pdb
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\MainWindow.baml
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\MainWindow.g.cs
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\App.g.cs
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample_Content.g.cs
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample_MarkupCompile.cache
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample.g.resources
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample.Properties.Resources.resources
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample.csproj.GenerateResource.Cache
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample.exe
+c:\users\виктор\documents\visual studio 2010\Projects\EntityExample\EntityExample\obj\x86\Debug\EntityExample.pdb
+D:\Проекты\DEMO\EntityExample\EntityExample\bin\Debug\Database1.sdf
+D:\Проекты\DEMO\EntityExample\EntityExample\bin\Debug\EntityExample.exe.config
+D:\Проекты\DEMO\EntityExample\EntityExample\bin\Debug\EntityExample.exe
+D:\Проекты\DEMO\EntityExample\EntityExample\bin\Debug\EntityExample.pdb
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.csprojResolveAssemblyReference.cache
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\MainWindow.baml
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\MainWindow.g.cs
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\App.g.cs
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample_Content.g.cs
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample_MarkupCompile.cache
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.g.resources
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.Properties.Resources.resources
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.csproj.GenerateResource.cache
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.csproj.CoreCompileInputs.cache
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.exe
+D:\Проекты\DEMO\EntityExample\EntityExample\obj\x86\Debug\EntityExample.pdb

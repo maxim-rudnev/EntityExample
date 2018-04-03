@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PeopleModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.3.5" ProviderManifestToken="3.5" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="PeopleModelStoreContainer">
+    <EntitySet Name="PeopleSet" EntityType="PeopleModel.Store.PeopleSet" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="PeopleSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Familyname" Type="nvarchar" Nullable="true" />
+    <Property Name="Firstname" Type="nvarchar" Nullable="true" />
+    <Property Name="Secondname" Type="nvarchar" Nullable="true" />
+  </EntityType>
+</Schema>
